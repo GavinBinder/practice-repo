@@ -4,7 +4,9 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Intro to Data Science
+| **Prefix**  | **Number** | _Name_  | Credits  |
+|:---------:|:--------:|:-------:|:----------:
+| COP     | 2073   | Intro to Data science| 3  |
 
 **Hobbies:**
 
